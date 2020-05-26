@@ -15,8 +15,6 @@ pipeline {
         APP_GIT_URL = "https://github.com/weasleyh0930/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-ap3.prod.nextcle.com/repository/nodejs"
 
-        // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
-        APP_NAME = "books"
     }
 
 
