@@ -10,7 +10,6 @@ pipeline {
     }
 
     environment {
-        //TODO: Edit these vars as per your env
         DEV_PROJECT = "weasleyh0930-books-dev"
         STAGE_PROJECT = "weasleyh0930-books-stage"
         APP_GIT_URL = "https://github.com/weasleyh0930/DO288-apps"
