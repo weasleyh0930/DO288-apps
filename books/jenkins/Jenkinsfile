@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "weasleyh0930-books-dev"
-        STAGE_PROJECT = "weasleyh0930-books-stage"
+        DEV_PROJECT = "weasleyh-books-dev"
+        STAGE_PROJECT = "weasleyh-books-stage"
         APP_GIT_URL = "https://github.com/weasleyh0930/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-ap3.prod.nextcle.com/repository/nodejs"
 
